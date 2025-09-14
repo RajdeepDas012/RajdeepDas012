@@ -93,22 +93,27 @@ Here are some of my public projects:
 ## 📫 Connect with me
 
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/rajdeep-das-5756aa300" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   
+  <!-- Instagram -->
   <a href="https://www.instagram.com/_rajdeep_das_99" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40" style="fill:#E4405F;"/>
   </a>
   
+  <!-- GitHub -->
   <a href="https://github.com/RajdeepDas012" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
   
+  <!-- Gmail -->
   <a href="mailto:rajdeepdas007007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40" style="fill:#EA4335;"/>
   </a>
 </p>
+
 
 
 
