@@ -1,14 +1,25 @@
 <!-- Header with GIF -->
-<h1 align="center">Hi 👋, I'm Rajdeep </h1>
+<!-- CODEZARD Profile Header -->
+<h1 align="center">⚡ Welcome to <span style="color:#ff4757;">CODEZARD</span> ⚡</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Gif">
 </p>
 
-<h3 align="center">💻 Passionate Developer | 🌱 Lifelong Learner | 🚀 Exploring Web & AI</h3>
+<h3 align="center">🚀 Mastering Code Like a Wizard | 💻 Developer • 🌱 Learner • 🪄 Creator</h3>
+
+---
+
+<!-- Stylish Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/CODEZARD-%F0%9F%92%BB-blueviolet?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Web%20Dev-%E2%9C%A8-green?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/AI%20Explorer-%F0%9F%94%AE-orange?style=for-the-badge&logo=python" />
+</p>
 
 
-# Hi there 👋
+
+# Hi there 👋 I'm Rajdeep 
 Welcome to my GitHub profile!  
 I’m always exploring new ideas and building small projects. I enjoy playing around with HTML, JavaScript, and Python, and I love seeing what I can create from scratch or improve upon.
 
