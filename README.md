@@ -18,6 +18,10 @@
 </p>
 
 
+---
+![Visitors](https://komarev.com/ghpvc/?username=RajdeepDas012&color=blue)
+---
+
 
 # Hi there 👋 I'm Rajdeep 
 Welcome to my GitHub profile!  
@@ -76,14 +80,38 @@ Here are some of my public projects:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   </a>
 </p>
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RajdeepDas012&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajdeepDas012&theme=radical" alt="streak" />
+</p>
+---
+![Rajdeep’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RajdeepDas012&theme=github-compact)
+---
+
+
+## 📫 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajdeep-das-5756aa300" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://www.instagram.com/_rajdeep_das_99" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/RajdeepDas012" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="mailto:rajdeepdas007007@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 
 
-
-## 📫 Get In Touch
-
-- Feel free to open an issue or PR on any of my repositories  
-- If you want to collaborate, send me a message here on GitHub  
 
 ---
 
