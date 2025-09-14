@@ -12,7 +12,7 @@ Here are some of my public projects:
 | Project | Description |
 |---|---|
 | **_Tic_Tac_Toe_-Game** | A simple Tic Tac Toe game made with JavaScript. Great for practicing logic, DOM manipulation, and making games in the browser.|
-| **llmware** | A framework for building Retrieval-Augmented Generation (RAG) pipelines with small, specialized models. Forked from `llmware-ai/llmware`. :contentReference[oaicite:1]{index=1} |
+| **llmware** | A framework for building Retrieval-Augmented Generation (RAG) pipelines with small, specialized models. Forked from `llmware-ai/llmware`. |
 | **my-valentine** | A simple HTML project made for Valentine’s Day. |
 | **Star_moving_cursor** | A fun website/animation project in JS — stars follow or interact around the cursor. |
 
