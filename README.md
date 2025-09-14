@@ -1,6 +1,6 @@
 <!-- Header with GIF -->
 <!-- CODEZARD Profile Header -->
-<h1 align="center">⚡ Welcome to <span style="color:#ff4757;">CODEZARD</span> ⚡</h1>
+<h1 align="center">⚡ Welcome to <span style="color:#ff4757;">𝐂𝐎𝐃𝐄𝐙𝐀𝐑𝐃</span> ⚡</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Gif">
