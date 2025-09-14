@@ -8,8 +8,7 @@
 <h3 align="center">💻 Passionate Developer | 🌱 Lifelong Learner | 🚀 Exploring Web & AI</h3>
 
 
-# Hi there 👋, I’m Rajdeep Das
-
+# Hi there 👋
 Welcome to my GitHub profile!  
 I’m always exploring new ideas and building small projects. I enjoy playing around with HTML, JavaScript, and Python, and I love seeing what I can create from scratch or improve upon.
 
