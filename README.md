@@ -49,7 +49,7 @@ class RajdeepDas:
 ### 🧠 [codex-cerebrum](https://github.com/RajdeepDas012/codex-cerebrum)
 **Autonomous Self-Learning AI Agent**
 
-An AI agent powered by Gemini API that learns coding & trading concepts autonomously every day, structures knowledge as a growing dataset, and auto-commits to GitHub — 480 commits/day via CI/CD pipeline. Zero human intervention.
+An AI agent powered by Gemini API that learns coding & trading concepts autonomously every day, structures knowledge as a growing dataset via CI/CD pipeline.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=google&logoColor=white)
