@@ -33,7 +33,7 @@ class RajdeepDas:
         "Self-Learning AI Systems",
     ]
 
-    currently_building = "cogito-codex — AI that learns coding daily & auto-commits to GitHub"
+    currently_building = "codex-cerebrum — AI that learns coding daily & auto-commits to GitHub"
     open_to            = "Internships • Collaborations • Entry-level AI/ML roles"
     contact            = "rajdeepdas007007@gmail.com"
 ```
@@ -87,7 +87,7 @@ Paste any headline or article and get an instant REAL / FAKE / MISLEADING verdic
 ### ⚡ More Coming Soon
 **Always Building**
 
-Currently working on expanding cogito-codex into a full trading & finance AI advisor — with autonomous market analysis, probability modelling, and chart generation.
+Currently working on expanding codex-cerebrum into a full trading & finance AI advisor — with autonomous market analysis, probability modelling, and chart generation.
 
 ![Status](https://img.shields.io/badge/Status-In_Progress-orange?style=flat)
 ![AI](https://img.shields.io/badge/Focus-AI_Agents-6366f1?style=flat)
@@ -150,17 +150,17 @@ Currently working on expanding cogito-codex into a full trading & finance AI adv
 
 ---
 
-## 🤖 cogito-codex Live Stats
+## 🤖 codex-cerebrum Live Stats
 
 > My autonomous AI agent learns a new coding or trading topic every few minutes and commits it here automatically.
 
-<!-- COGITO_STATS_START -->
+<!-- CODEX_STATS_START -->
 | Metric | Value |
 |---|---|
 | Topics Learned | *auto-updated by agent* |
 | Last Commit | *auto-updated by agent* |
 | Dataset Size | *auto-updated by agent* |
-<!-- COGITO_STATS_END -->
+<!-- CODEX_STATS_END -->
 
 ---
 
