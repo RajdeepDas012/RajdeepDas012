@@ -46,7 +46,7 @@ class RajdeepDas:
 <tr>
 <td width="50%">
 
-### 🧠 [cogito-codex](https://github.com/RajdeepDas012/cogito-codex)
+### 🧠 [codex-cerebrum](https://github.com/RajdeepDas012/codex-cerebrum)
 **Autonomous Self-Learning AI Agent**
 
 An AI agent powered by Gemini API that learns coding & trading concepts autonomously every day, structures knowledge as a growing dataset, and auto-commits to GitHub — 480 commits/day via CI/CD pipeline. Zero human intervention.
