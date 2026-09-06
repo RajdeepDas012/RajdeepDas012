@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rajdeep%20Das&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Developer%20%7C%20Autonomous%20Agents%20%7C%20Full%20Stack&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=RAJDEEP%20DAS&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Developer%20%7C%20Autonomous%20Agents%20%7C%20Full%20Stack&descAlignY=55&descSize=16"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+Self-Learning+AI+Agents+%F0%9F%A4%96;Gemini+API+%7C+React+%7C+Python+%7C+Firebase;Turning+Ideas+into+Intelligent+Systems+%E2%9A%A1)](https://git.io/typing-svg)
 
